@@ -28,7 +28,7 @@ var userAnswer = readlineSync.question(question);
 
 // *Make it Generic
 var questionOne = {
-question: "Where do you live? ",
+question: "Where do I live? ",
 answer: "Faridabad"
 }
 var questionTwo = {
